@@ -1,0 +1,7 @@
+-Yapýcý (Constructor) fonksiyonun parametrelerine varsayýlan deðerleri tanýmlayýn.               YAPILDI                admin.h  17.satýr
+-Baþlýk (Header) dosyanýza "include guard" koymayý unutmayýnýz.                                  YAPILDI                admin.h  1,2,32. satýrlar
+-Bir yýkýcý (Destructor) fonksiyonu tanýmlayýn.                                                  YAPILDI                admin.h  18.satýr
+-Statik deðiþkenleri ve fonksiyonlarý kullanýn.                                                  YAPILDI                etkinlik.h 10,12,41.satýrlar  ,  ekran.h 25.satir    
+-En az 3 operatör aþýrý yükleme fonksiyonu (Function Overloading) tanýmlayýn.             1 TANE YAPILDI				ekran.cpp 12-17.satýr , 
+-Arkadaþ fonksiyon (Friends) kullanýn.                                                           
+-Kompozisyon (Composition) kullanýn (bunu yapmak için en az 2 farklý sýnýfa ihtiyacýnýz var.)    YAPILDI				ekran.cpp 189-195.satýr   etkinlik classýnýn fonksiyonlarý ekran classý içinde çaðrýldý

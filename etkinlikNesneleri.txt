@@ -1,0 +1,36 @@
+
+
+2 numarali nesneniz = t
+3 numarali nesneniz = h
+4 numarali nesneniz = h
+2 numarali nesneniz =  
+3 numarali nesneniz = g
+1 numarali nesneniz =  
+2 numarali nesneniz =  
+3 numarali nesneniz =  
+1 numarali nesneniz = g
+2 numarali nesneniz = h
+1 numarali nesneniz = test
+2 numarali nesneniz = test1
+1 numarali nesneniz =  
+1 numarali nesneniz = sontest
+1 numarali nesneniz = g
+1 numarali nesneniz = g
+1 numarali nesneniz = g
+2 numarali nesneniz = l
+3 numarali nesneniz = n
+1 numarali nesneniz = k
+1 numarali nesneniz = t
+1 numarali nesneniz = mesir
+2 numarali nesneniz = ciger tava
+3 numarali nesneniz = kiraz festivali
+1 numarali nesneniz = Mesir Macunu Festivali
+2 numarali nesneniz = TeknoFest
+3 numarali nesneniz = Yagli Gures Festivali
+1 numarali nesneniz = test
+2 numarali nesneniz = test 2
+1 numarali nesneniz = t
+2 numarali nesneniz = y
+1 numarali nesneniz = t
+1 numarali nesneniz = k
+1 numarali nesneniz = Teknofest

@@ -1,0 +1,45 @@
+
+
+Rezervasyon No: 774
+Etkinlik ID: 1
+Etkinlik Ad: Teknofest
+Etkinlik Tarih: 23-05-2023
+Ad Soyad: fatih serbest
+Koltuk No: 5
+-----------------------
+
+
+Rezervasyon No: 879
+Etkinlik ID: 1
+Etkinlik Ad: Teknofest
+Etkinlik Tarih: 23-05-2023
+Ad Soyad: Mehmet Adem Yildiz
+Koltuk No: 3
+-----------------------
+
+
+Rezervasyon No: 232
+Etkinlik ID: 1
+Etkinlik Ad: Teknofest
+Etkinlik Tarih: 23-05-2023
+Ad Soyad: Duygu Selin Cakir
+Koltuk No: 40
+-----------------------
+
+
+Rezervasyon No: 454
+Etkinlik ID: 1
+Etkinlik Ad: Teknofest
+Etkinlik Tarih: 23-05-2023
+Ad Soyad: Emrecan Kahveci
+Koltuk No: 78
+-----------------------
+
+
+Rezervasyon No: 476
+Etkinlik ID: 1
+Etkinlik Ad: Teknofest
+Etkinlik Tarih: 23-05-2023
+Ad Soyad: Omer Selim Ozdemir
+Koltuk No: 45
+-----------------------
